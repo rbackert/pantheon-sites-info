@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "commander": "^12.0.0",
+    "execa": "^8.0.1",
+    "stream-chain": "^2.2.5",
+    "stream-csv-as-json": "^1.0.4",
+    "stream-json": "^1.8.0"
+  },
+  "bin": "./sites.js",
+  "type": "module"
+}
